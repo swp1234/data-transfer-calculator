@@ -1,0 +1,10 @@
+{
+  "app": {
+    "title": "Data Transfer Calculator",
+    "description": "Estimate download and upload time from file size and internet speed in seconds or hours."
+  },
+  "ui": {
+    "skip": "Skip to tool",
+    "loading": "Loading..."
+  }
+}
